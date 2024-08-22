@@ -5,7 +5,7 @@ I am a full stack developer currently working on a Destiny 2 web application cal
 Visit my website: [www.amg94.com](http://www.amg94.com)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kBZBlLVlfECvOQAVno/giphy.gif" alt="Open for Work" width="300"/>
+  <img src="https://media.giphy.com/media/eiMn6aBwpkSCffKOG0/giphy.gif" alt="Open for Work" width="300"/>
 </p>
 
 ---
